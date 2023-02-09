@@ -10,10 +10,6 @@ get_html()
 ```
 
 
-<style>.output_text { font-size: 14px; }.CodeMirror { font-size: 14px; }.container { width: 90% !important; font-size: 14px; }</style>
-
-
-
 ```python
 # from collections import UserDict
 # import types as types_from_types
